@@ -1,6 +1,6 @@
 # COVID-19 Dashboard
 
-This repository provides a comprehensive Tableau dashboard that visualizes the global impact of the COVID-19 pandemic. The dashboard is designed to offer insights into the spread of the virus, case numbers, mortality rates, and recoveries worldwide.
+This repository provides a comprehensive Tableau dashboard that visualizes the global impact of the COVID-19 pandemic. The dashboard is designed to offer insights into the spread of the virus, case numbers, mortality rates, and recoveries worldwide
 
 ## Overview
 
