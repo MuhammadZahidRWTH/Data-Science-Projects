@@ -1,6 +1,6 @@
 # Diabetes Classification Supervised Learning
 
-This project performs diabetes classification using multiple supervised learning algorithms. The goal is to predict whether a patient has diabetes based on various diagnostic factors. The project utilizes several classification models, such as Random Forest, Gradient Boosting, Logistic Regression, and others, to evaluate and compare their performance.
+This project performs diabetes classification using multiple supervised learning algorithms. The goal is to predict whether a patient has diabetes based on various diagnostic factors. The project utilizes several classification models, such as Random Forest, Gradient Boosting, Logistic Regression, and others, to evaluate and compare their performance
 
 ## <span style="color:blue">Table of Contents</span>
 
