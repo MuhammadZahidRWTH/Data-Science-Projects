@@ -1,6 +1,6 @@
 # House Prices: Advanced Regression Techniques
 
-This repository focuses on **Exploratory Data Analysis (EDA)** of the **House Prices** dataset, followed by **feature engineering**, **model building**, and **evaluation** using **stacked regression models**.
+This repository focuses on **Exploratory Data Analysis (EDA)** of the **House Prices** dataset, followed by **feature engineering**, **model building**, and **evaluation** using **stacked regression models**
 
 ## Table of Contents
 
